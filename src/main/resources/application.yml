@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: demo-configuration-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: file:C:\\Users\\mhusika\\Desktop\\codes\\spring-demos\\demo-config-repo
+        #   uri: https://github.com/oengajohn/spring-microservices-config-repository.git
+
+server:
+  port: 8888
