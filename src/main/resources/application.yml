@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-          uri: file:C:\\Users\\mhusika\\Desktop\\codes\\spring-demos\\demo-config-repo
+          uri: file:C:\\Users\\mhusika\\Documents\\Microservices\\demo-config-repo
         #   uri: https://github.com/oengajohn/spring-microservices-config-repository.git
 
 server:
